@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,MACE,cAAe,CAChB,SAGC,YAAa","file":"main.b4f82b93.chunk.css","sourcesContent":["// styles go here\n.show {\n  background: red;\n}\n\n.hidebtn {\n  display: none;\n}\n"]}
